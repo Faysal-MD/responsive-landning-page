@@ -157,3 +157,15 @@ nav>button{
      font-size: 18px;
      margin-top: 20px;
  }
+ @media only screen and (max-width: 668px) {
+    .banner-section{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .navbar{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 30px;
+    }
+  }
