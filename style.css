@@ -157,6 +157,7 @@ nav>button{
      font-size: 18px;
      margin-top: 20px;
  }
+ /* responsive for mobile devices */
  @media only screen and (max-width: 668px) {
     .banner-section{
         width: 100%;
