@@ -70,6 +70,9 @@ nav>button{
     height: 438px;
     margin: 49px 0 86px 50px;
 }
+.banner-img img:hover{
+    transform:rotate(20deg);
+}
 .banner-section{
     display:flex;
     justify-content: center;
@@ -110,6 +113,22 @@ nav>button{
     font-size: 16px;
     margin-top: 10px;
  }
+ /* football style */
+ .football{
+    width: 567px;
+    height: 427px;
+    border-radius: 10px;
+ }
+ .admission{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 30px;
+ }
+ .admission-title{
+     margin-left: 10px;
+ }
+
  /*--------------
   footer style
   ----------------*/
